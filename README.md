@@ -1,5 +1,8 @@
  # Here is the link to the app.
-   https://notes-app-demo0210.netlify.app/
+ 
+  ➡️  https://notes-app-demo0210.netlify.app/
+
+   
 # Getting Started
 
 Install the dependencies and run the project
